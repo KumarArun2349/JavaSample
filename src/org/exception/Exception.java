@@ -80,6 +80,7 @@ public static void main(String[] args) {
 	} catch (IndexOutOfBoundsException e) {
 		System.out.println("Index OutOf Bounds Exception Handled");
 	}
+	System.out.println("Exception");
 	
 }
 }
